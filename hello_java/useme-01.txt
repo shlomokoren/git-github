@@ -1,0 +1,23 @@
+E1nL1234!
+
+http://34.208.242.181:8080
+http://34.208.203.228:8080
+
+jenkins_pipline_hello
+
+java.home	/usr/lib/jvm/java-8-openjdk-amd64/jre
+/usr/bin/mvn
+
+
+https://github.com/joostvdg/hello-world-jenkins-pipeline-plugin.git
+https://github.com/TTFHW/jenkins_pipeline_java_maven.git
+Open in Desktop Download ZIP Create new file Upload files Find file Branch: master New pull request
+
+
+password for smtp mail loyrcacjezhlwpbr
+
+echo "<html>" > $indexdir"index.html"
+echo " <h1>" >> $indexdir"index.html"
+echo "   " $d $simple_massage >> $indexdir"index.html"
+echo " </h1>" >> $indexdir"index.html"
+echo "<html>" > $indexdir"index.html"
